@@ -1,2 +1,2 @@
 # Gambling-game
-This is a dice gambling game, where you have to guess the two numbers that appear on the dices and if you guess correctly you win, it's pretty understantable i guess
+A simple dice gambling game made in Python. You guess two dice numbers, the program rolls them randomly, and you win if your guess matches. It’s just a mini-project I made for fun.
